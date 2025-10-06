@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Frontend (Vite/Vue)
+taller-web/node_modules
+taller-web/dist
+taller-web/.vite
+
+# Python backend
+taller-backend/__pycache__/
+taller-backend/.venv/
