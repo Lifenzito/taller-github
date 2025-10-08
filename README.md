@@ -2,7 +2,7 @@
 
 Este repositorio contiene dos partes del taller:
 
-- **taller-web/** → Frontend (Vite + Vue)
+- **taller-web/** → Frontend (Vite + Vue)  
 - **taller-backend/** → Backend (Python)
 
 ## Cómo ejecutar el Frontend
