@@ -10,3 +10,7 @@ Este repositorio contiene dos partes del taller:
 cd taller-web
 npm install
 npm run dev
+
+
+## ESTE es el cambio que hizo Jose
+Este apartado fue agregado por **Jose** como parte del taller práctico de colaboración con GitHub.
